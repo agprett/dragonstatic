@@ -57,7 +57,7 @@
   line-height: 70px;
   text-align: center;
   color: #CEC2AE;
-  background-image: url('/images/login-img.jpg');
+  background-image: url('../images/login-img.jpg');
   background-position: center;
   background-size: cover;
   box-shadow: inset 0 0 0 1000px rgb(107,119,141, .6);
